@@ -24,13 +24,6 @@ Dependencies:
 
 Notes:
 - This is a basic simulation using command-line interface.
-- Passwords are securely entered using getpass.
-
-Future Enhancements:
-- Store data in files or a database
-- Admin interface
-- Web version using Django or Flask
-- Vehicle search & filter features
 
 Author:
 Usama Farooq
